@@ -56,6 +56,7 @@ subtitle = ""
 [Djalil Chafaï](http://djalil.chafai.net/blog/)
 
 
+[Algebraic Geometry and Statistical Learning Theory](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/ag-slt.html)
 
 
 
