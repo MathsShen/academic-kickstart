@@ -35,7 +35,7 @@ subtitle = ""
 [Francis Bach](https://francisbach.com/)
 
 
-[off the convex path](https://www.offconvex.org)
+[Off the Convex Path](https://www.offconvex.org)
 
 
 [Non-Convex Optimization](https://sunju.org/research/nonconvex/)
