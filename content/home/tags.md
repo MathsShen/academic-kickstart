@@ -26,22 +26,38 @@ subtitle = ""
 +++
 
 
-[arXiv.stat.ML](https://arxiv.org/list/stat.ML/recent)
+[arXiv.Stat.ML](https://arxiv.org/list/stat.ML/recent)
 
 
 [Simons Institute](https://simons.berkeley.edu/workshops/past)
 
 
+[Francis Bach](https://francisbach.com/)
+
+
 [off the convex path](https://www.offconvex.org)
 
 
-[Nonconvex Optimization](https://sunju.org/research/nonconvex/)
+[Non-Convex Optimization](https://sunju.org/research/nonconvex/)
 
 
 [Oxford Courses](https://courses.maths.ox.ac.uk/overview/postgraduate)
 
 
 [Hazan Lab @ Princeton](https://minimizingregret.wordpress.com/blog/)
+
+
+[inFERENCe](https://www.inference.vc/)
+
+
+[STATS 385](https://stats385.github.io/)
+
+
+[Djalil Chafaï](http://djalil.chafai.net/blog/)
+
+
+
+
 
 
 
