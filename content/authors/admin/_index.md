@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate at NUS
+role: Ph.D. Candidate in Data Science
 
 # Organizations/Affiliations
 organizations:
