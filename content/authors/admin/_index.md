@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'fusheng@u.nus.edu'  # For a direct email link, use "mailto:fusheng@u.nus.edu".
+  link: '#fusheng@u.nus.edu'  # For a direct email link, use "mailto:fusheng@u.nus.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
