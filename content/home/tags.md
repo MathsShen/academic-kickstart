@@ -8,6 +8,9 @@ weight = 60  # Order that this section will appear.
 title = "Useful Links"
 subtitle = ""
 
+links:
+
+url: "https://www.google.com"
 
 
 [content]
