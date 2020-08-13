@@ -8,9 +8,7 @@ weight = 60  # Order that this section will appear.
 title = "Useful Links"
 subtitle = ""
 
-links:
 
-url: "https://www.google.com"
 
 
 [content]
@@ -26,3 +24,14 @@ url: "https://www.google.com"
   font_size_min = 0.7
   font_size_max = 2.0
 +++
+
+
+draft = false  # Is this a draft? true/false
+toc = true  # Show table of contents? true/false
+type = "docs"  # Do not modify.
+
+# Add menu entry to sidebar.
+linktitle = "Final Project"
+# [menu.docs]
+#  parent = "MUMT618"
+#  weight = 1
