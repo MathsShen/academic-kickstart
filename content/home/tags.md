@@ -59,6 +59,7 @@ subtitle = ""
 [Algebraic Geometry and Statistical Learning Theory](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/ag-slt.html)
 
 
+[Vanishing Component Analysis](http://proceedings.mlr.press/v28/livni13.pdf)
 
 
 
