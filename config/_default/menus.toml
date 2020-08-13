@@ -26,7 +26,7 @@
 
 [[main]]
   name = "Links"
-  url = "#tags"
+  url = "#links"
   weight = 60
   
 #[[main]]
