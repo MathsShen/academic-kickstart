@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy = "categories"
-  url = "https://www.google.com"
+
 
   # Choose how many tags you would like to display (0 = all tags)
   count = 20
