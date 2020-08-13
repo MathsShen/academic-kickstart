@@ -7,6 +7,7 @@ weight = 60  # Order that this section will appear.
 
 title = "Useful Links"
 subtitle = ""
+[I'm a link](https://www.google.com)
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
