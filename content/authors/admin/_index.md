@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year PhD student of NUS Institute of Data Science, supervised by 
+I am a first-year PhD student of NUS Institute of Data Science. 
