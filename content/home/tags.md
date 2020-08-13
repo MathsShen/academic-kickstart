@@ -26,4 +26,44 @@ subtitle = ""
 +++
 
 
-[I'm a link](https://www.google.com)
+[arXiv.stat.ML](https://arxiv.org/list/stat.ML/recent)
+
+
+[Simons Institute](https://simons.berkeley.edu/workshops/past)
+
+
+[off the convex path](https://www.offconvex.org)
+
+
+[Nonconvex Optimization](https://sunju.org/research/nonconvex/)
+
+
+[Oxford Courses](https://courses.maths.ox.ac.uk/overview/postgraduate)
+
+
+[Hazan Lab @ Princeton](https://minimizingregret.wordpress.com/blog/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
