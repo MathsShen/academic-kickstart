@@ -35,6 +35,9 @@ subtitle = ""
 [Francis Bach](https://francisbach.com/)
 
 
+[Stephen Tu](https://stephentu.github.io/blog/)
+
+
 [Off the Convex Path](https://www.offconvex.org)
 
 
