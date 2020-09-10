@@ -35,6 +35,9 @@ subtitle = ""
 [Francis Bach](https://francisbach.com/)
 
 
+[Benjamin Recht](https://www.argmin.net)
+
+
 [Stephen Tu](https://stephentu.github.io/blog/)
 
 
