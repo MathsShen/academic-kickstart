@@ -32,6 +32,9 @@ subtitle = ""
 [Simons Institute](https://simons.berkeley.edu/workshops/past)
 
 
+[Learning and Control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
+
+
 [Francis Bach](https://francisbach.com/)
 
 
