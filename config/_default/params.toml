@@ -296,3 +296,7 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  
+  
+  
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=lfE-KbU6YnEubwv-knyeJn7NQLRWb0824kT8bEUZo78"></script>
