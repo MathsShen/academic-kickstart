@@ -35,6 +35,9 @@ subtitle = ""
 [Learning and Control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 
 
+[Matus Telgarsky](http://mjt.cs.illinois.edu/courses/dlt-f20/files/lec.html)
+
+
 [Francis Bach](https://francisbach.com/)
 
 
