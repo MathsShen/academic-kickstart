@@ -26,9 +26,6 @@ subtitle = ""
 +++
 
 
-[arXiv.Stat.ML](https://arxiv.org/list/stat.ML/recent)
-
-
 [Simons Institute](https://simons.berkeley.edu/workshops/past)
 
 
@@ -53,7 +50,7 @@ subtitle = ""
 [Non-Convex Optimization](https://sunju.org/research/nonconvex/)
 
 
-[Oxford Courses](https://courses.maths.ox.ac.uk/overview/postgraduate)
+[Tricki](http://www.tricki.org/tricki/articles)
 
 
 [Hazan Lab @ Princeton](https://minimizingregret.wordpress.com/blog/)
